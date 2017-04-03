@@ -1,0 +1,15 @@
+{
+  "name": "electron",
+  "version": "0.0.0",
+  "description": "A NodeJS Boilerplate template for a rapid start.",
+  "main": "main.js",
+  "keywords": [],
+  "author": "Bitte selbst ausfüllen",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}

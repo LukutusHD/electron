@@ -1,0 +1,21 @@
+{
+  "name": "electron",
+  "description": "A NodeJS Boilerplate template for a rapid start.",
+  "main": "main.js",
+  "authors": [
+    "Frank Wolbring <fwolbring@googlemail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

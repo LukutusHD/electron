@@ -4,7 +4,7 @@
   "description": "A NodeJS Boilerplate template for a rapid start.",
   "main": "main.js",
   "keywords": [],
-  "author": "Bitte selbst ausfüllen",
+  "author": "Holger Marx <fwolle@fraktion-wars.de>",
   "license": "MIT",
   "scripts": {
     "start": "electron ."
